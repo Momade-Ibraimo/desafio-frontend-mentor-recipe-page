@@ -27,41 +27,16 @@ O objetivo principal foi praticar estruturação semântica de páginas web e es
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+ 🛠️ Tecnologias utilizadas
 
 * HTML5
 * CSS3
 * Google Fonts
 
 
-Conceitos praticados
-
-* HTML semântico
-* Flexbox
-* Responsividade
-* Media Queries
-* Tabelas HTML
-* Tipografia web
-* Organização de layout
-* Box Model
-* Seletores CSS
-
-
 Responsividade
 
 O projeto possui adaptações para telas menores utilizando Media Queries, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
-
-
- Objetivo de aprendizado
-
-Desenvolvido com foco na prática de construção de interfaces modernas utilizando apenas HTML e CSS, reforçando conceitos fundamentais do desenvolvimento Front-End.
-
-
- Demonstração
-
-Adicione aqui uma imagem ou GIF da aplicação em funcionamento.
-
- Autor
-
-Projeto desenvolvido para fins de estudo e aprimoramento das habilidades em desenvolvimento Front-End.
+## Links:
+- Projeto:[https://momade-ibraimo.github.io/desafio-frontend-mentor-recipe-page/]
