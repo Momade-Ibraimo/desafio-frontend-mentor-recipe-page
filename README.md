@@ -39,4 +39,4 @@ Responsividade
 O projeto possui adaptações para telas menores utilizando Media Queries, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
 ## Links:
-- Projeto:[https://momade-ibraimo.github.io/desafio-frontend-mentor-recipe-page/]
+- Projeto:https://momade-ibraimo.github.io/desafio-frontend-mentor-recipe-page/
