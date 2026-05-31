@@ -15,6 +15,7 @@ Esta aplicação consiste em uma página estática que exibe uma receita complet
 
 O objetivo principal foi praticar estruturação semântica de páginas web e estilização responsiva utilizando apenas HTML e CSS.
 
+---
 
  Funcionalidades
 
@@ -36,6 +37,8 @@ O objetivo principal foi praticar estruturação semântica de páginas web e es
 ---
 Responsividade
 O projeto possui adaptações para telas menores utilizando Media Queries, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
+
+---
 
 ## Links:
 - Projeto:https://momade-ibraimo.github.io/desafio-frontend-mentor-recipe-page/
