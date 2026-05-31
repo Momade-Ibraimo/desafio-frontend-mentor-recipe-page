@@ -4,6 +4,8 @@ Página responsiva de receita desenvolvida com HTML5 e CSS3.
 
 O projeto apresenta uma receita de omelete organizada em seções bem definidas, com foco em semântica, tipografia, responsividade e fidelidade ao layout proposto.
 
+---
+
 Sobre o projeto
 
 Esta aplicação consiste em uma página estática que exibe uma receita completa, incluindo:
@@ -36,6 +38,7 @@ O objetivo principal foi praticar estruturação semântica de páginas web e es
 
 ---
 Responsividade
+
 O projeto possui adaptações para telas menores utilizando Media Queries, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
 ---
