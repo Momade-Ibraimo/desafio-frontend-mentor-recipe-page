@@ -33,9 +33,8 @@ O objetivo principal foi praticar estruturação semântica de páginas web e es
 * CSS3
 * Google Fonts
 
-
+---
 Responsividade
-
 O projeto possui adaptações para telas menores utilizando Media Queries, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
 
 ## Links:
