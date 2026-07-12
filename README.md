@@ -30,7 +30,7 @@ O objetivo principal foi praticar estruturação semântica de páginas web e es
 
 ---
 
- 🛠️ Tecnologias utilizadas
+  Tecnologias utilizadas
 
 * HTML5
 * CSS3
